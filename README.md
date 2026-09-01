@@ -12,7 +12,7 @@
 
 ### 💼 Experience
 
-- 💻 **Developer** @ Dotmatrix (PVT) LTD *(Present)*
+- 💻 **Developer** @ Dotmatrix (PVT) LTD *(Jul 2023 - Present)*
 - 🎨 **Lead Designer** @ Unique Digital Pvt Ltd *(Jun 2025 - Present)*
 - 🎨 **Creative Designer** @ Uniquely Technologies Pvt Ltd. *(Nov 2024 - Present)*
 
